@@ -34,3 +34,5 @@ make sure that MySQL and Redis is running. if you use GCSDK, make sure that Mong
 make sure that your system has libASan5 and libPython2.7.
 
 finally BASH it and enjoy it!
+
+据说来自钟旭东
